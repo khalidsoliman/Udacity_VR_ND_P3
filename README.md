@@ -14,9 +14,9 @@ Creating Maze With Closed Door Needs The Key To Be Opened
 
 * Programs you necessary need 
 
-* Few steps to build your app
+* Building Quality 
 
-* Other Info
+* Few steps to build your app
 
 * The Challenge 
 
