@@ -22,7 +22,7 @@ Creating Maze With Closed Door Needs The Key To Be Opened
 
 * License
 
-## ModernApartmenVRScene
+## TheMaze
 
 It's the Third project in Udacity VR developer nanodegree that allows the users to go around in maze looking for the key to open the building door 
 
@@ -56,7 +56,7 @@ It's the Third project in Udacity VR developer nanodegree that allows the users 
 
 * NO Billboards face camera position
 
-* 12 light sources ( make sure they are `Xcode`)
+* 12 light sources ( make sure they are `Static to Get Baked`)
 
 ### Baked GI 
 
