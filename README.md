@@ -66,12 +66,6 @@ It's the Third project in Udacity VR developer nanodegree that allows the users 
 
 * Final Gather " Enabled " 
 
-### Shadows
-
-* Hard & Soft shadows 
-
-* Shadows Resolution " Low Resolution " 
-
 ## GVRViewer
 
 * GVR_SDK_VERSION = "1.1"
